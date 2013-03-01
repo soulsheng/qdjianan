@@ -150,14 +150,15 @@ function wp_new_user_notification($user_id, $plaintext_pass = '') {
 	#-- Pie-Register --#
 	if( !$piereg['custom_msg'] ){
 	#-- END Pie-Register --#
-	
-		$message  = sprintf(__('Username: %s', 'piereg'), $user_login) . "\r\n";
+		
+		$message .= sprintf(__('Username: %s', 'piereg'), $user_login) . "\r\n";
 		$message .= sprintf(__('Password: %s', 'piereg'), $plaintext_pass) . "\r\n";
 		//$message .= get_option('siteurl') . "/wp-login.php";
 	
 	#-- Pie-Register --#
-		$message .= $email_code?$prelink . get_option('siteurl') . "/wp-login.php" . $email_code . "\r\n":"-xxx-"; 
-		$message .= $notice; 
+		$message .= $email_code?$prelink . get_option('siteurl') . "/wp-login.php" . $email_code . "\r\n\r\n":"-xxx-"; 
+		$message .= $notice."\r\n"; 
+		
 	#-- END Pie-Register --#
 	
 		wp_mail($user_email, sprintf(__('[%s] Your username and password', 'piereg'), get_option('blogname')), $message);
