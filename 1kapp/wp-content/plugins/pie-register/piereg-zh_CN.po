@@ -1,0 +1,1575 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chinese Translation of Pie Register\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-31 17:35+0800\n"
+"PO-Revision-Date: 2011-01-31 19:45+0800\n"
+"Last-Translator: caii; http://zhoucaiqi.com <zhoucaiqi@gmail.com>\n"
+"Language-Team: caii; http://zhoucaiqi.com <zhoucaiqi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;__ngettext\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: China\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: D:\\Program Files\\EasyPHP 3.0\\www\\wordpress\\wp-content\\plugins\\pie-register\n"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/dash_widget.php:10
+msgid "Invitation Code Tracking"
+msgstr "邀请码跟踪"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:100
+msgid "Pie-Register is only compatible with WordPress v2.5 and up.  You are currently using WordPress v."
+msgstr "Pie-Register 仅兼容 WordPress v2.5 及 v2.5 以上的版本。您目前在使用 WordPress v."
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:155
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2237
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[%s] 您的用户名和密码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:162
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2174
+#, php-format
+msgid "[%s] New User Register"
+msgstr "[%s] 新用户注册"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:300
+msgid "Settings Saved"
+msgstr "保存设置"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:543
+msgid "<strong>Error:</strong> Please select a user to validate!"
+msgstr "<strong>错误：</strong> 请选择一个用户区验证！"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:546
+msgid "Users Verified"
+msgstr "用户已验证"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:568
+msgid "Dear User,"
+msgstr "亲爱的用户，"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:569
+msgid "You have successfuly registered but your payment has been overdue."
+msgstr "您已经注册；但是，您的付款已经过期了。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:570
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:619
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:639
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2171
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2228
+#, php-format
+msgid "Username: %s"
+msgstr "用户名：%s"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:571
+msgid "Please Click or copy this link to browser to finish the registration."
+msgstr "请点击此链接，或者复制链接到浏览器以完成注册过程。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:575
+#, php-format
+msgid "[%s] Payment Pending"
+msgstr "[%s] 正在付款"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:580
+msgid "<strong>Error:</strong> Please select a user to send link to!"
+msgstr "<strong>错误：</strong> 请选择接收链接的用户！"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:583
+msgid "Payment link has been e-mail to the user(s)"
+msgstr "已经通过 email 把付款链接发送给用户"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:599
+msgid "<strong>Error:</strong> Please select a user to delete"
+msgstr "<strong>出错：</strong> 请选择要删除的用户"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:602
+msgid "Users Deleted"
+msgstr "已删除用户"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:618
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2139
+msgid "Verification URL: "
+msgstr "验证链接："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:625
+#, php-format
+msgid "[%s] Verify Account Link"
+msgstr "[%s] 验证账户链接"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:628
+msgid "Verification Emails have been re-sent"
+msgstr "已经重新发送验证 Email"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:630
+msgid "<strong>Error:</strong> Please select a user to send emails to."
+msgstr "<strong>出错：</strong> 请选择接收 email 的用户。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:638
+msgid "Your account has now been activated by an administrator."
+msgstr "您的账户已经被管理员激活。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:645
+#, php-format
+msgid "[%s] User Account Registration"
+msgstr "[%s] 用户注册"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:656
+msgid "Unverified Users"
+msgstr "未验证的用户"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:661
+msgid "Verify Checked Users"
+msgstr "验证选择的用户"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:661
+msgid "Send Payment Link"
+msgstr "发送付款链接"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:662
+msgid "Resend Verification E-mail"
+msgstr "重新发送验证 Email"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:662
+msgid "Delete"
+msgstr "删除"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:673
+msgid "Unverified ID"
+msgstr "未验证的ID"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:674
+msgid "User Name"
+msgstr "用户名"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:675
+msgid "E-mail"
+msgstr "E-mail"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:676
+msgid "Role"
+msgstr "角色"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:696
+msgid "e-mail: "
+msgstr "e-mail："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:722
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:846
+msgid "Remove Code"
+msgstr "删除编码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:723
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:847
+msgid "Add Code"
+msgstr "添加编码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:751
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:939
+msgid "Custom Field"
+msgstr "自定域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:756
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:940
+msgid "Add Registration Field"
+msgstr "添加注册域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:758
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:940
+msgid "Add Profile Field"
+msgstr "添加个人资料域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:760
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:940
+msgid "Required"
+msgstr "必需的"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:762
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:942
+msgid "Remove Row"
+msgstr "删除行"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:763
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:943
+msgid "Add Row"
+msgstr "添加行"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:769
+msgid "Pie Register Settings"
+msgstr "Pie Register 设置"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:780
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1107
+msgid "Save Changes"
+msgstr "保存设定"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:784
+msgid "Password"
+msgstr "密码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:785
+msgid "Allow New Registrations to set their own Password"
+msgstr "允许注册用户设定自己的密码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:786
+msgid "Enable Password Strength Meter"
+msgstr "启用密码强度测量器"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:788
+msgid "Short"
+msgstr "短"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:789
+msgid "Bad"
+msgstr "糟糕"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:790
+msgid "Good"
+msgstr "良好"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:791
+msgid "Strong"
+msgstr "很好"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:796
+msgid "Custom Logo"
+msgstr "自定义Logo"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:797
+msgid "Recommended Logo width is 358px, but any height should work."
+msgstr "推荐宽度为 358px 的Logo，高度没有限制。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:799
+msgid "Delete Logo"
+msgstr "删除 Logo"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:801
+msgid "Having troubles uploading?"
+msgstr "上传时遇到困难？"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:801
+msgid "Uncheck \"Organize my uploads into month- and year-based folders\" in"
+msgstr "媒体选项中，不要选择“以年-月目录形式组织上传内容”"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:801
+msgid "Miscellaneous Settings"
+msgstr "杂项设置"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:801
+msgid "(You can recheck this option after your logo has uploaded.)"
+msgstr "（上传 Logo 后重新选择该项。）"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:807
+msgid "Paypal Options"
+msgstr "Paypal 选项"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:808
+msgid "Add Paypal payment gateway for registration."
+msgstr "将 Paypal 支付网关添加到注册"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:809
+msgid "Enter Your paypal hosted button ID."
+msgstr "输入您的paypal hosted button ID"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:810
+msgid "Paypal Button ID"
+msgstr "Paypal Button ID"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:812
+msgid "Paypal PDT Token"
+msgstr "Paypal PDT 令牌"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:815
+msgid "Set Thank You URL In Step 2<br>"
+msgstr "在步骤2中设置感谢链接"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:816
+msgid "SET this variables at STEP 3"
+msgstr "在步骤3中设置这些变量"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:817
+msgid "rm=2"
+msgstr "rm=2"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:818
+msgid "notify_url="
+msgstr "通知链接="
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:826
+msgid "Email Verification"
+msgstr "Email 验证"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:827
+msgid "Prevent fake email address registrations."
+msgstr "防止虚假的 Email 地址注册"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:828
+msgid "Requires new registrations to click a link in the notification email to enable their account."
+msgstr "要求新的注册用户点击通知email中的链接，以启用他们的账户"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:829
+msgid "Grace Period (days)"
+msgstr "宽限期 （天）"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:830
+msgid "Unverified Users will be automatically deleted after grace period expires"
+msgstr "宽限期之后，未验证的用户将被自动删除。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:834
+msgid "Admin Verification"
+msgstr "管理员验证"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:835
+msgid "Moderate all user registrations to require admin approval. NOTE: Email Verification must be DISABLED to use this feature."
+msgstr "所有的用户注册都必需获得管理员的批准。注意：禁用“Email 验证”才能使用该项功能。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:838
+msgid "Invitation Code"
+msgstr "邀请码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:839
+msgid "Enable Invitation Code(s)"
+msgstr "启用邀请吗"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:841
+msgid "Enable Invitation Tracking Dashboard Widget"
+msgstr "启用验证码追踪小工具"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:842
+msgid "Require Invitation Code to Register"
+msgstr "注册需要使用邀请码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:850
+msgid "One of these codes will be required for users to register."
+msgstr "用户需要具有一个邀请码才能注册。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:854
+msgid "CAPTCHA"
+msgstr "验证码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:855
+msgid "None"
+msgstr "无"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:855
+msgid "Simple CAPTCHA"
+msgstr "简单的验证码"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:855
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:857
+msgid "You may need to add the code <code>&lt;?php session_start(); ?></code> to the top line of the wp_login.php file to enable Simple CAPTCHA to work correctly."
+msgstr "您可能需要在 wp_login.php 的顶行添加代码 <code>&lt;?php session_start(); ?></code> 才能正常启用“简单的验证码”功能。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:860
+msgid "reCAPTCHA Public Key:"
+msgstr "reCAPTCHA 公钥："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:860
+msgid "Sign up &raquo;"
+msgstr "注册 &raquo;"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:861
+msgid "reCAPTCHA Private Key:"
+msgstr "reCAPTCHA 隐私政策："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:867
+msgid "Disclaimer"
+msgstr "免责声明"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:868
+msgid "Enable Disclaimer"
+msgstr "启用免责声明"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:870
+msgid "Disclaimer Title"
+msgstr "免责声明标题"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:871
+msgid "Disclaimer Content"
+msgstr "免责声明内容"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:873
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:884
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:895
+msgid "Agreement Text"
+msgstr "协议文本"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:878
+msgid "License Agreement"
+msgstr "许可协议"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:879
+msgid "Enable License Agreement"
+msgstr "启用许可协议"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:881
+msgid "License Title"
+msgstr "许可标题"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:882
+msgid "License Content"
+msgstr "许可内容"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:889
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:890
+msgid "Enable Privacy Policy"
+msgstr "启用隐私政策"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:892
+msgid "Privacy Policy Title"
+msgstr "隐私政策标题"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:893
+msgid "Privacy Policy Content"
+msgstr "隐私协议内容"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:900
+msgid "Allow Existing Email"
+msgstr "允许已存在的 Email"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:901
+msgid "Allow new registrations to use an email address that has been previously registered"
+msgstr "允许用户使用已注册的 email 地址进行注册"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:905
+msgid "Additional Profile Fields"
+msgstr "附加的个人资料域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:906
+msgid "Check the fields you would like to appear on the Registration Page."
+msgstr "选择您想要它出现在注册页面上的域。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:910
+msgid "Name"
+msgstr "用户ID （用于登录系统）"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:911
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "First Name"
+msgstr "名"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:911
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "Last Name"
+msgstr "姓"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:914
+msgid "Contact Info"
+msgstr "联系方式"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:915
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "Website"
+msgstr "网址"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:915
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "AIM"
+msgstr "AIM"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:915
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:915
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:915
+msgid "Phone # / Mobile #."
+msgstr "手机 / 电话"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:918
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:919
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "About Yourself"
+msgstr "自己介绍"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:922
+msgid "Required Profile Fields"
+msgstr "必需的个人资料域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:923
+msgid "Phone # / Mobile #"
+msgstr "手机 / 电话"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:926
+msgid "Required Field Style Rules"
+msgstr "必需的域式样规则"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:932
+msgid "User Defined Fields"
+msgstr "用户定义的域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:933
+msgid "Enter the custom fields you would like to appear on the Registration Page."
+msgstr "输入您想要它出现在注册页面的自定义域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:934
+msgid "Enter Extra Options for Select, Checkboxes and Radio Fields as comma seperated values. For example, if you chose a select box for a custom field of \"Gender\", your extra options would be \"Male,Female\"."
+msgstr "给选单、多选框、单选框输入额外的选项，各选项直接使用“,”(英文的逗号)隔开。例如，如果您的选单为“性别”，那么，您提供的选项将是“男, 女”。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:951
+msgid "Date Field Settings"
+msgstr "日期域设定"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:952
+msgid "First Day of the Week"
+msgstr "每周的第一天"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:953
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1570
+msgid "Monday"
+msgstr "星期一"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:954
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1570
+msgid "Tuesday"
+msgstr "星期二"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:955
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1570
+msgid "Wednesday"
+msgstr "星期三"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:956
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1570
+msgid "Thursday"
+msgstr "星期四"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:957
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1570
+msgid "Friday"
+msgstr "星期五"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:958
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1570
+msgid "Saturday"
+msgstr "星期六"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:959
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1570
+msgid "Sunday"
+msgstr "星期天"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:962
+msgid "Date Format"
+msgstr "日期格式"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:963
+msgid "First Selectable Date"
+msgstr "最先可选择的日期"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:964
+msgid "Default Year"
+msgstr "默认的年份"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:965
+msgid "Default Month"
+msgstr "默认的月份"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:966
+msgid "Current Month"
+msgstr "当前月份"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:967
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Jan"
+msgstr "1月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:968
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Feb"
+msgstr "2月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:969
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Mar"
+msgstr "3月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:970
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Apr"
+msgstr "4月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:971
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "May"
+msgstr "5月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:972
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Jun"
+msgstr "6月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:973
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Jul"
+msgstr "7月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:974
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Aug"
+msgstr "8月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:975
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Sep"
+msgstr "9月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:976
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Oct"
+msgstr "10月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:977
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Nov"
+msgstr "11月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:978
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1573
+msgid "Dec"
+msgstr "12月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:986
+msgid "Auto-Complete Queries"
+msgstr "自动填写域"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:987
+msgid "You can now link to the registration page with queries to autocomplete specific fields for the user.  I have included the query keys below and an example of a query URL."
+msgstr "您可以在注册页面的链接后附加具体的“自动填写域”。下面包含了有关的“自动填写域”，并提供了一个范例。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:989
+msgid "For any custom fields, use your custom field label with the text all lowercase, using underscores instead of spaces. For example if your custom field was \"Middle Name\" your query key would be <code>middle_name</code>"
+msgstr "对于自定义域，使用您自定义的 label 。l abel 必须使用小写字母，单词之间使用下划线“_”连接，不要使用空格。例如，如果您的自定义域是“QQ号码”，那么，您的查询关键字应该是 <code>QQ_number</code> 而不是  <code>QQ number</code>。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:990
+msgid "Example Query URL"
+msgstr "带有自动填写域的URL"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:993
+msgid "Customize User Notification Email"
+msgstr "自定义用户通知 Email"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:997
+msgid "Custom User Email Notification"
+msgstr "自定义发送给用户的 Email 通知"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:998
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1058
+msgid "Enable"
+msgstr "启用"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1006
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1066
+msgid "From Email"
+msgstr "发信人"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1010
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1070
+msgid "From Name"
+msgstr "发信人名字"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1014
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1074
+msgid "Subject"
+msgstr "主题"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1018
+msgid "User Message"
+msgstr "信件内容"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1038
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1080
+msgid "Replacement Keys"
+msgstr "可供替换的变量"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1039
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1080
+msgid "Send as HTML"
+msgstr "以 HTML 形式发送"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1039
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1080
+msgid "Convert new lines to &lt;br/> tags (HTML only)"
+msgstr "根据  &lt;br/> 标记换行（仅适用于HTML形式）"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1042
+msgid "Login Redirect URL"
+msgstr "登录引导链接"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1043
+msgid "This will redirect the users login after registration."
+msgstr "用于将登录后的用户引导至指定页面"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1049
+msgid "Customize Admin Notification Email"
+msgstr "自定义管理员的通知 Email"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1053
+msgid "Admin Email Notification"
+msgstr "给管理员发送 Email 通知"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1054
+msgid "Disable"
+msgstr "禁用"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1057
+msgid "Custom Admin Email Notification"
+msgstr "自定义发送给管理员的 Email 通知"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1078
+msgid "Admin Message"
+msgstr "发给管理员的内容"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1085
+msgid "Custom CSS for Register & Login Pages"
+msgstr "自定义注册、登录页面的CSS"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1086
+msgid "CSS Rule Example:"
+msgstr "CSS规则范例："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1097
+msgid "Custom Register CSS"
+msgstr "自定义注册的CSS"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1101
+msgid "Custom Login CSS"
+msgstr "自定义登录的CSS"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1129
+msgid "<strong>ERROR</strong>: Please enter your First Name."
+msgstr "<strong>出错</strong>: 请输入您的名。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1134
+msgid "<strong>ERROR</strong>: Please enter your Last Name."
+msgstr "<strong>出错</strong>： 请输入您的姓"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1139
+msgid "<strong>ERROR</strong>: Please enter your Website URL."
+msgstr "<strong>出错</strong>：请输入您的网址。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1144
+msgid "<strong>ERROR</strong>: Please enter your AIM username."
+msgstr "<strong>出错</strong>：请输入您的AIM用户名。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1149
+msgid "<strong>ERROR</strong>: Please enter your Yahoo IM username."
+msgstr "<strong>出错</strong>：请输入您的Yahoo IM 用户名。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1154
+msgid "<strong>ERROR</strong>: Please enter your Jabber / Google Talk username."
+msgstr "<strong>出错</strong>：请输入您的Jabber / Google Talk 用户名。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1159
+msgid "<strong>ERROR</strong>: Please enter your Phone / Mobile number."
+msgstr "<strong>出错</strong>：请输入您的 电话/手机号。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1161
+msgid "<strong>ERROR</strong>: Please enter your Phone / Mobile number in correct formart No Alphabet No more 13 Variables."
+msgstr "<strong>出错</strong>：请按照格式输入 电话/手机号码，该号码不含字母，不超过13位数。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1166
+msgid "<strong>ERROR</strong>: Please enter some information About Yourself."
+msgstr "<strong>出错</strong>：请输入自己介绍。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1174
+msgid "<strong>ERROR</strong>: Please enter your "
+msgstr "<strong>出错</strong>：请输入您的"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1182
+msgid "<strong>ERROR</strong>: Please enter a Password."
+msgstr "<strong>出错</strong>：请输入密码。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1184
+msgid "<strong>ERROR</strong>: Your Password does not match."
+msgstr "<strong>出错</strong>：您两次输入的密码不相同。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1186
+msgid "<strong>ERROR</strong>: Your Password must be at least 6 characters in length."
+msgstr "<strong>出错</strong>：您的密码不得小于6个字符。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1193
+msgid "<strong>ERROR</strong>: Please enter the Invitation Code."
+msgstr "<strong>出错</strong>：请输入邀请码。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1195
+msgid "<strong>ERROR</strong>: Your Invitation Code is incorrect."
+msgstr "<strong>出错</strong>：您的邀请码不正确。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1204
+msgid "<strong>ERROR</strong>: Image Validation does not match."
+msgstr "<strong>出错</strong>：您输入的图像验证码不正确。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1217
+msgid "<strong>ERROR:</strong> The reCAPTCHA wasn't entered correctly."
+msgstr "<strong>出错</strong>：您输入的 reCAPTCHA 码不正确。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1224
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1229
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1234
+msgid "<strong>ERROR</strong>: Please accept the "
+msgstr "<strong>出错</strong>：请接受"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1250
+msgid "Please check your e-mail and click the verification link to activate your account and complete your registration."
+msgstr "<strong>出错</strong>：请您查收 email ，并点击其中的验证连接激活您的账户，以完成注册过程。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1263
+msgid "First Name:"
+msgstr "名："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1271
+msgid "Last Name:"
+msgstr "姓："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1278
+msgid "Website:"
+msgstr "网址："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1285
+msgid "AIM:"
+msgstr "AIM："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1292
+msgid "Yahoo IM:"
+msgstr "Yahoo IM："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1299
+msgid "Jabber / Google Talk:"
+msgstr "Jabber / Google Talk："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1306
+msgid "Phone # / Mobile #:"
+msgstr "电话/手机号："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1313
+msgid "About Yourself:"
+msgstr "自我介绍"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1315
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "在您的个人资料中填写一些个人信息。这些个人信息可能会公开显示。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1387
+msgid "Password:"
+msgstr "密码："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1389
+msgid "Confirm Password:"
+msgstr "请重复密码："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1393
+msgid "Hint: Use upper and lower case characters, numbers and symbols like !\"?$%^&amp;( in your password."
+msgstr "提示：在您的密码中使用大写字母、小写字母、数字以及符号，例如 !\"?$%^&amp;( "
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1399
+msgid "Invitation Code:"
+msgstr "邀请码："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1402
+msgid "This website is currently closed to public registrations.  You will need an invitation code to register."
+msgstr "本站点未对公众开放注册。您需要具有邀请码才能进行注册。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1404
+msgid "Have an invitation code? Enter it here. (This is not required)"
+msgstr "具有邀请码？请输入 （不是必需的）。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1438
+msgid "Validation Image:"
+msgstr "验证图像："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1441
+msgid "Enter the text from the image."
+msgstr "请输入图片中的文字。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1562
+msgid "Previous year"
+msgstr "前一年"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1563
+msgid "Previous month"
+msgstr "前一个月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1564
+msgid "Next year"
+msgstr "下一年"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1565
+msgid "Next Month"
+msgstr "下一个月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1566
+msgid "Close"
+msgstr "关闭"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1567
+msgid "Choose Date"
+msgstr "选择日期"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1571
+msgid "Mon"
+msgstr "星期一"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1571
+msgid "Tue"
+msgstr "星期二"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1571
+msgid "Wed"
+msgstr "星期三"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1571
+msgid "Thu"
+msgstr "星期四"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1571
+msgid "Fri"
+msgstr "星期五"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1571
+msgid "Sat"
+msgstr "星期六"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1571
+msgid "Sun"
+msgstr "星期天"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "January"
+msgstr "1月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "February"
+msgstr "2月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "March"
+msgstr "3月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "April"
+msgstr "4月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "June"
+msgstr "6月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "July"
+msgstr "7月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "August"
+msgstr "8月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "September"
+msgstr "9月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "October"
+msgstr "10月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "November"
+msgstr "11月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1572
+msgid "December"
+msgstr "12月"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1764
+msgid "Additional Information"
+msgstr "附加信息"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1860
+msgid "Your account will be reviewed by an administrator and you will be notified when it is activated."
+msgstr "管理员会审核您的账户；您的账户激活时，系统会通知您。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1863
+msgid "Please activate your account using the verification link sent to your email address."
+msgstr "验证链接已经发往您 email 地址，请使用该验证链接激活您的账户。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1871
+msgid "Please click below to Continue and finish registration."
+msgstr "请点击，以继续注册并完成注册。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1883
+#, php-format
+msgid "Hello <strong>%s</strong>, There is One-Time Subscription fee. Click to Complete your account registration."
+msgstr "Hello <strong>%s</strong>，免费订阅一次。请点击以完成注册。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1891
+#, php-format
+msgid "Thank you <strong>%s</strong>, your email has been verified. There is One-Time Subscription fee. Please Click below to Complete your account registration."
+msgstr "<strong>%s</strong>，谢谢，您的 email 已经验证。免费订阅一次，请点击以完成注册。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1903
+#, php-format
+msgid "Thank you <strong>%s</strong>, for registration, Please login."
+msgstr "<strong>%s</strong> 感谢您的注册，请登录。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1990
+#, php-format
+msgid "Thank you %s, your payment has been recieved. Please login to your account now!"
+msgstr "%s ，已经收到您的付款，谢谢。请您登录。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:1998
+#, php-format
+msgid "Thank you %s, your payment has been recieved, Please login to your account now!"
+msgstr "%s ，已经收到您的付款，谢谢。请您登录。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2007
+msgid "You have successfully Paid for your membership."
+msgstr "您已经付了会员费。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2011
+msgid "There's an error while verifying your payment."
+msgstr "验证您的付款时出现错误。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2062
+msgid "You have another plugin installed that is conflicting with Pie Register.  This other plugin is overriding the user notification emails.  Please see <a href=\"http://pie-solutions.com/news/pie-register-conflicts/\">Pie Register Conflicts</a> for more information."
+msgstr "您的一个插件与 Pie Register 冲突，该插件的设定覆盖了 Pie Register 的用户通知 email 。请访问<a href=\"http://pie-solutions.com/news/pie-register-conflicts/\">Pie Register Conflicts</a> 以获得更多信息。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2066
+msgid "If you find this plugin useful, please consider "
+msgstr "如果您觉得此插件不错，请您考虑"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2075
+msgid "donating"
+msgstr "捐款"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2130
+msgid "Your account requires activation by an administrator before you will be able to login."
+msgstr "您的账户需要管理员激活才能登陆。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2140
+msgid "Please use the link above to verify and activate your account"
+msgstr "请使用上面的链接验证和激活您的账户。"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2170
+#, php-format
+msgid "New user Register on your blog %s:"
+msgstr "有新用户在您的网站 %s 注册："
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2172
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail：%s"
+
+#: D:\Program
+#: Files\EasyPHP
+#: 3.0\www\wordpress\wp-content\plugins\pie-register/pie-register.php:2229
+#, php-format
+msgid "Password: %s"
+msgstr "密码：%s"
+

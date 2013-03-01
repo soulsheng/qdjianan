@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<script type="text/javascript" src="../../tiny_mce.js?ver=358-20121205"></script>
+	<script type="text/javascript">
+		function patchCallback(settings, key) {
+			if (settings[key])
+				settings[key] = "window.opener." + settings[key];
+		}
+
+		var settings = {}, paSe = window.opener.tinyMCE.activeEditor.settings, oeID = window.opener.tinyMCE.activeEditor.id;
+
+		// Clone array
+		for (var n in paSe)
+			settings[n] = paSe[n];
+
+		// Override options for fullscreen
+		for (var n in paSe.fullscreen_settings)
+			settings[n] = paSe.fullscreen_settings[n];
+
+		// Patch callbacks, make them point to window.opener
+		patchCallback(settings, 'urlconverter_callback');
+		patchCallback(settings, 'insertlink_callback');
+		patchCallback(settings, 'insertimage_callback');
+		patchCallback(settings, 'setupcontent_callback');
+		patchCallback(settings, 'save_callback');
+		patchCallback(settings, 'onchange_callback');
+		patchCallback(settings, 'init_instance_callback');
+		patchCallback(settings, 'file_browser_callback');
+		patchCallback(settings, 'cleanup_callback');
+		patchCallback(settings, 'execcommand_callback');
+		patchCallback(settings, 'oninit');
+
+		// Set options
+		delete settings.id;
+		settings['mode'] = 'exact';
+		settings['elements'] = 'fullscreenarea';
+		settings['add_unload_trigger'] = false;
+		settings['ask'] = f
