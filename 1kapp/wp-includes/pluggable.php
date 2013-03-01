@@ -1202,15 +1202,21 @@ function wp_new_user_notification($user_id, $plaintext_pass = '') {
 	$message  = sprintf(__('New user registration on your site %s:'), $blogname) . "\r\n\r\n";
 	$message .= sprintf(__('Username: %s'), $user_login) . "\r\n\r\n";
 	$message .= sprintf(__('E-mail: %s'), $user_email) . "\r\n";
+	$message .= wp_login_url() . "\r\n";
 
 	@wp_mail(get_option('admin_email'), sprintf(__('[%s] New User Registration'), $blogname), $message);
 
 	if ( empty($plaintext_pass) )
 		return;
-
-	$message  = sprintf(__('Username: %s'), $user_login) . "\r\n";
+	$message  = "亲爱的弟兄或姐妹：" . "\r\n\r\n";
+	$message .= "您好！主内平安！" . "\r\n\r\n";
+	$message .= "欢迎您加入迦南教会听道网，也非常感谢您使用真实有效的email注册。"."\r\n\r\n";
+	$message .= sprintf(__('Username: %s'), $user_login) . "\r\n";
 	$message .= sprintf(__('Password: %s'), $plaintext_pass) . "\r\n";
-	$message .= wp_login_url() . "\r\n";
+	$message .= wp_login_url() . "\r\n\r\n";
+	$message .= "现在请您通知网站管理员（QQ：2421479510；电话：0532-81706049  18661817454）帮助你激活您的账号，您就可以在此网站收听神的话语，增长您的灵命！"."\r\n\r\n";
+	$message .= "也请登录会员中心完善你的信息和修改密码，有什么建议也请和我们联系。"."\r\n\r\n";
+	$message .= "哈利路亚！"."\r\n";
 
 	wp_mail($user_email, sprintf(__('[%s] Your username and password'), $blogname), $message);
 
