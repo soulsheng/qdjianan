@@ -78,6 +78,15 @@ define('WPLANG', 'zh_CN');
  * 强烈建议插件开发者在开发环境中启用本功能。
  */
 define('WP_DEBUG', false);
+define('WP_ALLOW_MULTISITE', 'true');
+
+define('MULTISITE', true);
+define('SUBDOMAIN_INSTALL', true);
+define('DOMAIN_CURRENT_SITE', 'qdjianan.1kapp.com');
+define('PATH_CURRENT_SITE', '/');
+define('SITE_ID_CURRENT_SITE', 1);
+define('BLOG_ID_CURRENT_SITE', 1);
+
 
 /* 好了！请不要再继续编辑。请保存本文件。使用愉快！ */
 
